@@ -9,5 +9,5 @@ escolhida pelo usuário e retorna ordenada de A a Z.
 Ferramentas utilizadas:
 * [Node] - (https://nodejs.org/en/docs/)
 * [Readline]-Documentação ultilizada para auxiliar na construção (https://nodejs.org/api/readline.html)
-## ✒️ Autores
+##  *Autores*
 * **Simone Luiz** - (https://github.com/SimoneLuiz)
