@@ -1,4 +1,4 @@
-# **
+
 <h1 align="center">:file_cabinet: ProjetoSemanal Nodejs - Sprint Semanal </h1>
 
 *Proposta é a de criar uma aplicação que vai auxiliar desenvolvedores no dia a dia com CSS. Desenvolvida
