@@ -1,5 +1,5 @@
 # **
-<h1 align="center">:file_cabinet: ProjetoSemanalNode - Sprint Semanal </h1>
+<h1 align="center">:file_cabinet: ProjetoSemanal Nodejs - Sprint Semanal </h1>
 
 *Proposta é a de criar uma aplicação que vai auxiliar desenvolvedores no dia a dia com CSS. Desenvolvida
 com Node, aonde executa as entradas e saidas pelo terminal. As listas de propriedades Css,entram na ordem 
